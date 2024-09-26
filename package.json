@@ -1,0 +1,19 @@
+{
+  "name": "fladsync",
+  "version": "1.0.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A federated learning-based feature extraction and interest inference module",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fladsync": "^1.0.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

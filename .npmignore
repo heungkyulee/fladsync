@@ -1,0 +1,8 @@
+node_modules/
+venv/
+logs/
+.git/
+.vscode/
+*.log
+tests/
+models/saved_model/  # 만약 학습된 모델이 너무 크다면 제외
